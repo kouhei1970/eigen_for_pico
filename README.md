@@ -28,8 +28,9 @@ picoディレクトリに本レポジトリをクローンして通常通りビ�
 ## Eigenの使い方の勉強
 
 以下のサイトや資料をを参考にする
-http://blog.livedoor.jp/tek_nishi/archives/8623876.html
-http://ankokudan.org/d/dl/pdf/pdf-eigennote.pdf
+
+- [http://blog.livedoor.jp/tek_nishi/archives/8623876.html](http://blog.livedoor.jp/tek_nishi/archives/8623876.html)
+- [http://ankokudan.org/d/dl/pdf/pdf-eigennote.pdf](http://ankokudan.org/d/dl/pdf/pdf-eigennote.pdf)
 
 行列の逆行列を計算できる様にする
 
