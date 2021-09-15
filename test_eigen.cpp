@@ -5,8 +5,6 @@
 #include <stdio.h>
 #include <iostream>
 #include "pico/stdlib.h"
-#include "hardware/uart.h"
-#include "hardware/irq.h"
 #include <Eigen/Dense>
 
 using Eigen::MatrixXd;
