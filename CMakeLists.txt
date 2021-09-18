@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 pico_sdk_init()
 
-include_directories(/Users/itoukouhei/pico)
+include_directories(/Users/itoukouhei/pico/eigen)
 
 add_executable(test_eigen
         test_eigen.cpp
